@@ -1,5 +1,11 @@
-### Hi there 👋
+### I'm a beginner android developer
 
+Latest projects
+
+### Languages nd Tools
+![Java]https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java
+
+Follow me
 <!--
 **VladMikh95/VladMikh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
