@@ -1,8 +1,11 @@
 ### I'm a beginner android developer
 
-Latest projects
+###Latest projects
+Link Google Play App:
+[![My movies](https://img.shields.io/badge/-My movies-20B2AA?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.vladmikh.projects.mymovies&hl=ru&gl=US)
+Github repository: https://github.com/VladMikh95/MyMoviesApp
 
-### Languages nd Tools
+### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-D2691E?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=1E90FF)
 ![Android](https://img.shields.io/badge/-Android-FFFFFF?style=for-the-badge&logo=android&logoColor=00FF00)
