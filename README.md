@@ -3,20 +3,12 @@
 Latest projects
 
 ### Languages nd Tools
-![Java]https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java
+![Java](https://img.shields.io/badge/-Java-D2691E?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=1E90FF)
+![Android](https://img.shields.io/badge/-Android-FFFFFF?style=for-the-badge&logo=android&logoColor=00FF00)
 
-Follow me
-<!--
-**VladMikh95/VladMikh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Follow me
+[Vkontakte](https://img.shields.io/badge/-vkontakte-1E90FF?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/id144468846)
+[Facebook](https://img.shields.io/badge/-facebook-1E90FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/profile.php?id=100074650239229)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
