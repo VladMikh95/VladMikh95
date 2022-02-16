@@ -1,7 +1,7 @@
 ### I'm a beginner android developer
 
 ###Latest projects
-Link Google Play App:
+####Link Google Play App:
 [![My movies](https://img.shields.io/badge/-My movies-20B2AA?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.vladmikh.projects.mymovies&hl=ru&gl=US)
 Github repository: https://github.com/VladMikh95/MyMoviesApp
 
