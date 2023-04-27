@@ -13,6 +13,7 @@ https://github.com/VladMikh95/MyMoviesApp
 ![Java](https://img.shields.io/badge/-Java-D2691E?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=1E90FF)
 ![Android](https://img.shields.io/badge/-Android-FFFFFF?style=for-the-badge&logo=android&logoColor=00FF00)
+![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=for-the-badge&logo=android&logoColor=00FF00)
 
 ### Follow me
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-1E90FF?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/id144468846)
